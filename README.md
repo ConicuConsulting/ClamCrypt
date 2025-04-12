@@ -45,16 +45,14 @@ Encode access to files based on:
 
 ---
 
-## 📜 License
+## License
 
-Apache License 2.0
+Clam Crypt is dual-licensed:
 
-> See [`LICENSE`](./LICENSE) for full terms.
+- 🧪 **Apache 2.0** for open-source, non-commercial, educational, or research use.
+- 💼 **Commercial license required** for use in any product, SaaS platform, or monetized service.
 
-Includes:
-- ✅ Patent Grant
-- ✅ Liability and warranty disclaimers
-- ✅ Open-source and commercial use permitted
+To inquire about commercial licensing, contact: callum@novara.systems
 
 ---
 
