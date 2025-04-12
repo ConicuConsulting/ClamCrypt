@@ -77,7 +77,7 @@ This isn’t just about protecting data. It’s about encoding context, relation
 ---
 
 ## 🤝 Contribute
-Reach out via GitHub Discussions or [LinkedIn](https://www.linkedin.com/in/callummaystone) — collaborations welcome on:
+Reach out via GitHub Discussions or [LinkedIn](https://www.linkedin.com/in/callum-maystone/)) — collaborations welcome on:
 - Trust encoding models
 - DAG-based access chains
 - Structured relational file ontologies
