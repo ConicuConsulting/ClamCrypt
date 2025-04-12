@@ -52,7 +52,7 @@ Clam Crypt is dual-licensed:
 - 🧪 **Apache 2.0** for open-source, non-commercial, educational, or research use.
 - 💼 **Commercial license required** for use in any product, SaaS platform, or monetized service.
 
-To inquire about commercial licensing, contact: callum@novara.systems
+To inquire about commercial licensing, contact: callum@youmatter.systems
 
 ---
 
